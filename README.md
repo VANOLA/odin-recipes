@@ -1,0 +1,1 @@
+This project is just a basic recipe website built using HTML. It will allow me to practice my Git and html knowledge. I will revisit this project after I learn CSS.
